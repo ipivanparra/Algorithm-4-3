@@ -224,10 +224,10 @@
                     <mxGeometry x="261" y="1440" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="102" value="Solving for Other" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-                    <mxGeometry x="420" y="1670" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="450" y="1610" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="103" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-                    <mxGeometry x="400" y="1660" width="20" height="80" as="geometry"/>
+                <mxCell id="103" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;size=0.5;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1540" width="20" height="200" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
